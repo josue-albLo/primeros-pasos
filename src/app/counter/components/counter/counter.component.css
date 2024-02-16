@@ -1,0 +1,18 @@
+.btn {
+  color: white;
+  padding: 0.5rem 2rem;
+  margin: 0.2rem;
+  border-radius: 0.5rem;
+}
+
+.increment{
+  background-color: green;
+}
+
+.decrement{
+  background-color: red;
+}
+
+.reset{
+  background-color: blue;
+}
